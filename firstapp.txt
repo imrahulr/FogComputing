@@ -1,0 +1,6 @@
+{
+  "app_name" : "firstapp",
+  "port" : "9009",
+  "MQTT_BROKER" : "127.0.0.1",
+  "MQTT_TOPIC" : "fog"
+}
