@@ -1,4 +1,4 @@
-# FogComputing
+# Fog Computing
 
 
 Fog computing refers to extending cloud computing to the edge of an enterprise's network. Also known as Edge Computing or fogging, fog computing facilitates the operation of compute, storage and networking services between end devices and cloud computing data centers.
